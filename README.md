@@ -2,6 +2,7 @@ kins_nat_commun
 ===============
 
 Codes for Byrne et al. NatComms 2010
+https://www.nature.com/articles/ncomms1077
 
 Figure 3:
 
