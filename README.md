@@ -1,6 +1,5 @@
 kins_nat_commun
 ===============
-jbyrne6@gmail.com
 
 Codes for Byrne et al. NatComms 2010
 
